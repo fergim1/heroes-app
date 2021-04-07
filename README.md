@@ -2,7 +2,7 @@
 
 Se muestran los personajes de DC Comics y de Marvel.
 
-La App contiene :
+## La App esta hecha en REACT y contiene :
 
 - Buscador de Heroe, uso de queryString 
 - Manejo de rutas con React Router utilizando varios router 
