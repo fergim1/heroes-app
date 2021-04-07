@@ -10,3 +10,4 @@ La App contiene :
 - Uso de diferentes Hooks (useState, useEffect,  useReducer, useMemo, useReducer, useContext, useHistory,       useLocation , etc, y algunos customHook
 - Se utilizo localStorage
 
+![HeroesApp](https://github.com/fergim1/heroes-app/blob/main/HeroesApp.gif )
